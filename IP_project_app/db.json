@@ -1,0 +1,24 @@
+{
+  "enquiry": [
+    {
+      "firstName": "George",
+      "lastName": "Watson",
+      "email": "george.watson@gmail.com",
+      "mobile": "123456789",
+      "weight": 70,
+      "height": 1.8,
+      "bmi": 21.604938271604937,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and endurance",
+        "Building lean muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-12-19T23:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
