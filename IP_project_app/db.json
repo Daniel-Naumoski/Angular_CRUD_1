@@ -1,0 +1,61 @@
+{
+  "enquiry": [
+    {
+      "firstName": "George",
+      "lastName": "Watson",
+      "email": "george.watson@gmail.com",
+      "mobile": "123456789",
+      "weight": 70,
+      "height": 1.8,
+      "bmi": 21.604938271604937,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and endurance",
+        "Building lean muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-12-19T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "uuuiy",
+      "lastName": "dsada",
+      "email": "no.em@noem.com",
+      "mobile": "5678",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "Male",
+      "requireTrainer": "",
+      "package": "Quarterly",
+      "important": [
+        "Fat loss",
+        "Energy and endurance"
+      ],
+      "haveGymBefore": "",
+      "enquiryDate": "2024-01-24T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "dasda",
+      "lastName": "dsada",
+      "email": "no.em@noem.com",
+      "mobile": "231",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": "",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2024-01-30T23:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
